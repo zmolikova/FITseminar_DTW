@@ -3,3 +3,4 @@ python_speech_features
 numpy
 matplotlib
 IPython
+scipy
